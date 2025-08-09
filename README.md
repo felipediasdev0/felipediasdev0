@@ -13,7 +13,7 @@ Meu foco é garantir **experiência impecável** para o usuário e **blindagem t
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack
 
 **💡 Linguagens:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
