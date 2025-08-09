@@ -1,54 +1,29 @@
-# 👋 Olá, eu sou Felipe!
+👋 Olá, eu sou Felipe!
+💻 Desenvolvedor Web  🛡️ Especialista em Cibersegurança  📚 Apaixonado por tecnologia e aprendizado contínuo
+Transformo ideias em soluções digitais seguras, escaláveis e de alta performance, unindo experiência do usuário, eficiência e proteção em cada linha de código.
 
-💻 Programador focado em desenvolvimento web  
-🛡️ Especialista em cibersegurança  
-📚 Apaixonado por tecnologia e aprendizado contínuo
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-🧠 **Linguagens:**  
+🚀 Tecnologias & Ferramentas
+💡 Linguagens:
 JavaScript • Python • Bash
-
-⚙️ **Frameworks & Bibliotecas:**  
+⚙️ Frameworks & Bibliotecas:
 React • Node.js • Express
-
-🔐 **Cibersegurança:**  
+🔐 Cibersegurança:
 OWASP • Kali Linux • Wireshark • Metasploit
-
-📦 **DevOps & Ferramentas:**  
+📦 DevOps & Ferramentas:
 Docker • Git • GitHub Actions
 
----
+📌 Projetos em Destaque
+- 🔐 Stress Tester(https://github.com/felipediasdev0/stress-tester) – Ferramenta de teste de carga para avaliar a resiliência de sites e APIs.
+- 🧰 Keylogger( – Captura e registro de teclas para fins educacionais e de análise de segurança.
+- 🌐 Portfólio Web( – Website pessoal apresentando meus projetos e formas de contato.
 
-## 📌 Projetos em Destaque
+📊 Estatísticas do GitHub
+Felipe's GitHub stats
+Top Langs
 
-🔐 [Stress Tester](https://github.com/felipediasdev0/stress-tester)  
-Teste de Estresse de Site
+📫 Contato
+📧 E-mail: felipediasdev00@email.com
 
-🧰 [Keylogger](https://github.com/felipediasdev0/keylogger) 
-Coleta de Teclas
-
-🌐 [Portfólio Web](https://github.com/felipediasdev0/portfolio)  
-Meu site pessoal com projetos e contato
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipediasdev0&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipediasdev0&layout=compact&theme=default)
-
----
-
-## 📫 Onde me encontrar
- 
-📧 felipediasdev00@email.com 
-
----
-
-## 🎯 Objetivo
-
-Criar soluções seguras, escaláveis e com excelente experiência para o usuário.  
-Sempre buscando unir performance e proteção em cada linha de código.
+🎯 Objetivo
+Criar soluções que equilibrem performance e segurança de forma estratégica, entregando valor real para empresas e usuários.
+Busco sempre melhorar, inovar e aprender, acompanhando as tendências e boas práticas do mercado.
