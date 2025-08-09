@@ -43,8 +43,7 @@ Meu site pessoal com projetos e contato
 ---
 
 ## 📫 Onde me encontrar
-
-🔗 [Linkedin](www.linkedin.com/in/felipediasdev00)  
+ 
 📧 felipediasdev00@email.com 
 
 ---
