@@ -54,18 +54,6 @@ Meu foco é garantir **experiência impecável** para o usuário e **blindagem t
 
 ---
 
-## 🕹️ Contribuições em Modo Arcade
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=🕹️+Modo+Arcade+Ativado;Veja+minhas+contribuições+em+forma+de+Pac-Man!" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <img src="https://github.com/felipediasdev0/felipediasdev0/blob/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph"/>
-</p>
-
----
-
 ## 📡 Contato
 🌐 **Portfólio:** [felipediasdev0.github.io](https://felipediasdev0.github.io/)  
 💼 **LinkedIn:** [Felipe Dias](https://linkedin.com/in/felipediasdev00)  
