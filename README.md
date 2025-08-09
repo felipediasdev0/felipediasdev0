@@ -45,7 +45,7 @@ Meu foco é garantir **experiência impecável** para o usuário e **blindagem t
 
 ---
 
-## 📊 Estatísticas Hacker Style
+## 📊 Estatísticas 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipediasdev0&theme=highcontrast&ring=FF00E4&fire=00FFF7&currStreakLabel=00FFF7" height="165"/>
