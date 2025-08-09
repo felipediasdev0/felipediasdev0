@@ -45,7 +45,7 @@ Meu foco é garantir **experiência impecável** para o usuário e **blindagem t
 
 ---
 
-## 📊 Estatísticas 
+## 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipediasdev0&theme=highcontrast&ring=FF00E4&fire=00FFF7&currStreakLabel=00FFF7" height="165"/>
@@ -54,11 +54,23 @@ Meu foco é garantir **experiência impecável** para o usuário e **blindagem t
 
 ---
 
+## 🕹️ Contribuições em Modo Arcade
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=🕹️+Modo+Arcade+Ativado;Veja+minhas+contribuições+em+forma+de+Pac-Man!" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/felipediasdev0/felipediasdev0/blob/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph"/>
+</p>
+
+---
+
 ## 📡 Contato
 🌐 **Portfólio:** [felipediasdev0.github.io](https://felipediasdev0.github.io/)  
 💼 **LinkedIn:** [Felipe Dias](https://linkedin.com/in/felipediasdev00)  
-📧 **E-mail:** [felipediasdev00@email.com](mailto:felipediasdev00@email.com)  
-🐙 **GitHub:** [felipediasdev0](https://github.com/felipediasdev0)  
+📧 **E-mail:** [felipediasdev00@gmail.com](mailto:felipediasdev00@gmail.com)  
+🐙 **GitHub:** [felipediasdev0](https://github.com/felipediasdev0)
 
 ---
 
