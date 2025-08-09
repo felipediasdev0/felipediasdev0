@@ -45,6 +45,10 @@ Meu foco é garantir **experiência impecável** para o usuário e **blindagem t
 
 ---
 
+pacman contribution graph
+
+---
+
 ## 📊 Estatísticas Hacker Style
 
 <p align="center">
