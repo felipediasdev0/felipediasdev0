@@ -27,7 +27,7 @@ Docker • Git • GitHub Actions
 🔐 [Stress Tester](https://github.com/felipediasdev0/stress-tester)  
 Teste de Estresse de Site
 
-🧰 [Keylogger](https://github.com/felipediasdev0/keylogger)
+🧰 [Keylogger](https://github.com/felipediasdev0/keylogger) 
 Coleta de Teclas
 
 🌐 [Portfólio Web](https://github.com/felipediasdev0/portfolio)  
@@ -44,8 +44,8 @@ Meu site pessoal com projetos e contato
 
 ## 📫 Onde me encontrar
 
-🔗 [LinkedIn](www.linkedin.com/in/felipediasdev00)  
-📧 felipediasdev00@email.com  
+🔗 [Linkedin](www.linkedin.com/in/felipediasdev00)  
+📧 felipediasdev00@email.com 
 
 ---
 
