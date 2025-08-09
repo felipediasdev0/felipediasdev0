@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre Mim
-💻 **Desenvolvedor Web** | 🛡️ **Cibersegurança** | 📚 **Lifelong Learner**
+💻 **Desenvolvedor Web** | 🛡️ **Cibersegurança** | 📚 **Lifelong Learner**  
 
 Transformo ideias em soluções digitais **seguras**, **escaláveis** e de **alta performance**, unindo UX, eficiência e proteção em cada linha de código.
 
@@ -14,23 +14,23 @@ Transformo ideias em soluções digitais **seguras**, **escaláveis** e de **alt
 
 ## 🛠️ Tecnologias & Ferramentas
 
-**Linguagens:**
+**Linguagens:**  
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
 
-**Frameworks & Bibliotecas:**
+**Frameworks & Bibliotecas:**  
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
-**Cibersegurança:**
+**Cibersegurança:**  
 [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)](https://www.kali.org/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7)](https://www.wireshark.org/)
 [![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=003E54)](https://www.metasploit.com/)
 
-**DevOps & Ferramentas:**
+**DevOps & Ferramentas:**  
 [![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
@@ -54,9 +54,9 @@ Transformo ideias em soluções digitais **seguras**, **escaláveis** e de **alt
 ---
 
 ## 📫 Contato
-🌐 **Portfólio:** [felipedias.dev](https://https://felipediasdev0.github.io/)  
+🌐 **Portfólio:** [felipediasdev0.github.io](https://felipediasdev0.github.io/)  
 💼 **LinkedIn:** [Felipe Dias](https://linkedin.com/in/felipediasdev00)  
-📧 **E-mail:** [felipediasdev00@email.com](mailto:felipediasdev00@gmail.com)  
+📧 **E-mail:** [felipediasdev00@email.com](mailto:felipediasdev00@email.com)  
 🐙 **GitHub:** [felipediasdev0](https://github.com/felipediasdev0)  
 
 ---
