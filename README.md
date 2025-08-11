@@ -40,6 +40,7 @@ Meu foco é garantir **experiência impecável** para o usuário e **blindagem t
 
 ## 🚀 Projetos de Destaque
 - 🔐 **[Stress Tester](https://github.com/felipediasdev0/stress-tester)** — Teste de carga para garantir resiliência de aplicações.  
+- 🛡️ **[Vulnerabilidades Web Scanner](https://github.com/felipediasdev0/vulnscanner) — Scanner de vulnerabilidades para análise de segurança em sistemas.
 - 🧰 **[Keylogger](https://github.com/felipediasdev0/keylogger)** — Registro de teclas para fins educacionais.  
 - 🌐 **[Portfólio Web](https://felipediasdev0.github.io/)** — Meu site pessoal com projetos e contato.
 
