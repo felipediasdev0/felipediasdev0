@@ -49,7 +49,6 @@ Meu foco é garantir **experiência impecável** para o usuário e **blindagem t
 
 ## 📡 Contato
 🌐 **Portfólio:** [felipediasdev0.github.io](https://felipediasdev0.github.io/)  
-💼 **LinkedIn:** [Felipe Dias](https://linkedin.com/in/felipediasdev00)  
 📧 **E-mail:** [felipediasdev00@gmail.com](mailto:felipediasdev00@gmail.com)  
 🐙 **GitHub:** [felipediasdev0](https://github.com/felipediasdev0)
 
